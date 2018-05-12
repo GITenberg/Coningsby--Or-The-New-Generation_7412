@@ -1,5 +1,8 @@
 _repo: Coningsby--Or-The-New-Generation_7412
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Disraeli, Benjamin, Earl of Beaconsfield
@@ -13,6 +16,8 @@ description: "Coningsby, or The New Generation, is an English political novel by
   \ Disraeli published in 1844. It is rumored to be based on Nathan Mayer Rothschild.\
   \ According to his biographer, Robert Blake, the character of Sidonia is a cross\
   \ between Lionel de Rothschild and Disraeli himself.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7412#Coningsby--Or-The-New-Generation
 gutenberg_issued: '2005-02-01'
 gutenberg_type: Text
 identifiers:
